@@ -19,6 +19,7 @@ function foo(){
 }
 function bar(){
     good;
+    bad;
 }
 ~~~
 
