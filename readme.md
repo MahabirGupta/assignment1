@@ -1,4 +1,3 @@
-
 hello hi
 $$
 y_{0}=w_{0}+x_{0}
@@ -18,7 +17,5 @@ function foo(){
 function foo(){
     bad++;
 }
-function bar(){
-    
-}
-~~~
+
+hello hi
