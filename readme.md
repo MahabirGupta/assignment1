@@ -18,4 +18,7 @@ function foo(){
     bad++;
 }
 
-hello hi
+function bar(){
+    
+}
+~~~
